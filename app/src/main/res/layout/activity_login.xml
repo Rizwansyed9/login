@@ -60,11 +60,7 @@
                     android:maxLines="1" />
 
             </android.support.design.widget.TextInputLayout>
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="riz"
-                />
+            
 
             <Button
                 android:id="@+id/email_sign_in_button"
